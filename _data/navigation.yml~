@@ -63,5 +63,5 @@
   status: disabled
   
 - name: Locality
-  link: about_thessaloniki.html
+  link: about.html
   status: enabled
