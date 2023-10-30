@@ -48,7 +48,7 @@
   
 - name: Panel
   link: panel.html
-  status: disabled
+  status: enabled
   
 - name: Tutorials
   link: tutorial.html
